@@ -28,4 +28,9 @@ Wins: It provides the info on total wins of a player till now.
 
 Top_10s: It shows, how many times a player reached top 10 position in the battleground.
 
+## Applications of this dataset includes:
+
+This Dataset can used for various applications ranging from understanding the player behaviour for developing better predictive models, content creation, community engagement, and more oppertunities.
+Overall, this dataset provides a treasure trove of information that could be leveraged for improving game design, player experience, and business strategies.
+
 
