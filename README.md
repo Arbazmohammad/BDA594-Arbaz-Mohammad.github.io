@@ -4,7 +4,7 @@ This dataset shows information about players profile such as there kills, deaths
 
 To access the dataset, [click here](https://www.kaggle.com/datasets/mohammadtalib786/pubg-stats-dataset?resource=download)
 
-The dataset consists of 15 columns which are described as follows:
+The dataset consists of 10 columns which are described as follows:
 
 **Player_ID:** This is the unique ID for every player.
 
@@ -18,7 +18,7 @@ The dataset consists of 15 columns which are described as follows:
 
 **Assists:** It shows how many assists each player made.
 
-**Damage Dealt:** It gives information on total damage a particular person given to the others.
+**Damage Dealt:** It gives information on total damage a particular person gave to the others.
 
 **Headshots:** It shows the no. of headshots a player took.
 
