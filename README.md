@@ -36,6 +36,6 @@ Overall, this dataset provides a treasure trove of information that could be lev
 
 To Access the website/book, please [click here](https://www.udacity.com/course/ud617)
 
-Introduction to Hadoop and MapReduce course at Udacity teaches about the Big Data and the problems it creates. It teaches about how Apache Hadoop can addresses these problems. It is a comprehensive guide to understanding Hadoop's architecture, components, and its role in processing big data challenges. It also explains about Hadoop Distributed File System (HDFS), MapReduce programming, and explores the ecosystem's tools like Hive, Pig, HBase, and Spark. This course is suitable for beginners and experienced professionals seeking a deep dive into Hadoop's capabilities.
+Introduction to Hadoop and MapReduce course at Udacity teaches about Big Data and the problems it creates. It teaches about how Apache Hadoop can address these problems. It is a comprehensive guide to understanding Hadoop's architecture, components, and its role in processing big data challenges. It also explains about Hadoop Distributed File System (HDFS), MapReduce programming, and explores the ecosystem's tools like Hive, Pig, HBase, and Spark. This course is suitable for beginners and experienced professionals seeking a deep dive into Hadoop's capabilities.
 
 
