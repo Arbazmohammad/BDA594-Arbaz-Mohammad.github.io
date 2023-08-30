@@ -32,7 +32,7 @@ Overall, this dataset provides a treasure trove of information that could be lev
 
 ## Introduction to Hadoop and MapReduce
 
-**Institution:** **Udacity**
+**Institute:** **Udacity**
 
 To Access the website/book, please [click here](https://www.udacity.com/course/ud617)
 
